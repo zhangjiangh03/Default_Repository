@@ -1,3 +1,0 @@
-﻿  main.c
-D:\MyCode\DefaultRepository\C\Project-20230327-1\main.c(63,15): warning C4244: “return”: 从“WPARAM”转换到“int”，可能丢失数据
-  Project-20230327-1.vcxproj -> D:\MyCode\DefaultRepository\C\Project-20230327-1\x64\Debug\Project-20230327-1.exe

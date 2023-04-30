@@ -1,6 +1,0 @@
-﻿  FunctionDeclaration.h
-  GameFunction.c
-  Main.c
-  正在生成代码...
-D:\MyCode\DefaultRepository\C\Project-20230326\GameFunction.c(90): warning C4715: “WinGame”: 不是所有的控件路径都返回值
-  Project-20230326.vcxproj -> D:\MyCode\DefaultRepository\C\Project-20230326\x64\Debug\Project-20230326.exe
