@@ -1,0 +1,4 @@
+﻿  main.c
+D:\MyCode\DefaultRepository\C\Project-20230326（复）\main.c(322,20): warning C4047: “==”:“int (__cdecl *)(char (*)[3],int,int)”与“int”的间接级别不同
+D:\MyCode\DefaultRepository\C\Project-20230326（复）\main.c(332,25): warning C4047: “==”:“int (__cdecl *)(char (*)[3],int,int)”与“int”的间接级别不同
+  Project-20230326（复）.vcxproj -> D:\MyCode\DefaultRepository\C\Project-20230326（复）\x64\Debug\Project-20230326（复）.exe
