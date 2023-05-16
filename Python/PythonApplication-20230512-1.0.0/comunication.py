@@ -4,7 +4,7 @@ import ttkbootstrap as ttk
 import tkinter.font as font
 
 from PIL import ImageTk, Image
-from wordcloud import WordCloud
+# from wordcloud import WordCloud
 import jieba
 from bs4 import BeautifulSoup
 
@@ -86,7 +86,7 @@ class QTWindow:
 
         label_width_set = (int)(screen_width * 0.02)
 
-        category = ttk.Frame(root)
+        category = tk.Frame(root)
         category.pack()
 
         title_font = font.Font(family="res/Tonsilla.ttf", size = 30)
@@ -97,45 +97,42 @@ class QTWindow:
         ).pack(side = tk.TOP, pady = (20, 0))
 
         label_font = font.Font(family="res/Tonsilla.ttf", size = 15)
-        Info_LabelFrame = ttk.Labelframe(category, text = "Info", bootstyle = "info")
+        Info_LabelFrame = tk.Frame(category)
         tk.Label(
             Info_LabelFrame,
             text = "凯院资讯\n",
             font = label_font,
             width = label_width_set
         ).pack(pady = (10, 10))
-        ttk.Button(
+        tk.Button(
             Info_LabelFrame,
             text = "查看",
-            bootstyle = "primary",
             command = lambda: self.creat_QT_window('/html/info.html', "Info")
         ).pack(padx = 10, pady = (0, 10))
 
-        Club_LabelFrame = ttk.Labelframe(category, text = "Club", bootstyle = "info")
+        Club_LabelFrame = tk.Frame(category)
         tk.Label(
             Club_LabelFrame,
             text = "社团组织\n",
             font = label_font,
             width = label_width_set
         ).pack(pady = (10, 10))
-        ttk.Button(
+        tk.Button(
             Club_LabelFrame,
             text = "查看",
-            bootstyle = "primary",
             command = lambda: self.creat_QT_window('/html/club.html', "Club")
         ).pack(padx = 10, pady = (0, 10))
 
-        FAQs_LabelFrame = ttk.Labelframe(category, text = "FAQs", bootstyle = "info")
+        FAQs_LabelFrame = tk.Frame(category)
         tk.Label(
             FAQs_LabelFrame,
             text = "凯院问答\n",
             font = label_font,
             width = label_width_set
         ).pack(pady = (10, 10))
-        ttk.Button(
+        tk.Button(
             FAQs_LabelFrame,
             text = "查看",
-            bootstyle = "primary",
             command = lambda: self.creat_QT_window('/html/faqs.html', "FAQs")
         ).pack(padx = 10, pady = (0, 10))
 
@@ -143,12 +140,12 @@ class QTWindow:
         Club_LabelFrame.pack(side = tk.LEFT, anchor = tk.N, padx = 20, pady = 10)
         FAQs_LabelFrame.pack(side = tk.RIGHT, anchor = tk.NE, padx = 20, pady = 10)
 
-        partition = ttk.Frame(root)
+        partition = tk.Frame(root)
         partition.pack()
 
         # 分割线与文字组件
-        separator = ttk.Separator(partition, bootstyle = "info")
-        separator.pack(padx = 20, pady = 10)
+        # separator = tk.SEPARATOR(partition)
+        # separator.pack(padx = 20, pady = 10)
 
         partition_font = font.Font(family = "res/Tonsilla.ttf", size = 15)
         tk.Label(
