@@ -63,8 +63,6 @@ class QTWindow:
         # 显示该窗体
         self.QWidgetD.show()
 
-
-
     def Run(self):
         # 创建 tkinter 应用程序对象
         root = tk.Tk()
@@ -157,9 +155,21 @@ class QTWindow:
             font = partition_font
         ).pack(side = tk.TOP, pady = (20, 0))
 
+        def show_image():
+            # 读取本地图片并进行缩放
+            image = Image.open('res/imgs/1.png')
+            img_width = int(0.6 * screen_width)
+            img_height = int(0.5 * screen_height)
+            image = image.resize((img_width, img_height))
+            photo = ImageTk.PhotoImage(image)
+
+            label = tk.Label(root, image=photo)
+            label.image = photo
+            label.pack()
 
 
-
+        # 调用函数显示图片
+        show_image()
 
         # 进入主循环，等待用户操作
         root.mainloop()
@@ -178,12 +188,14 @@ def ComunicationMain():
     wb = QTWindow('/html/comunication_index.html')
     wb.Run()
 
+
+
 if __name__ == '__main__':
     ComunicationMain()
 
 
 
-
+########################################################################################################
     # def create_tk_window(self):
     #     # 创建新的tk窗口
     #     tk_win = tk.Toplevel()
