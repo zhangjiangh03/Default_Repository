@@ -67,7 +67,6 @@ class QTWindow:
         # 创建 tkinter 应用程序对象
         root = tk.Tk()
         root.title("活动信息")
-
         # 获取screen_width和高度
         screen_width = root.winfo_screenwidth()
         screen_height = root.winfo_screenheight()
@@ -81,7 +80,6 @@ class QTWindow:
         root.minsize(int(screen_width * 0.85), int(screen_height * 0.8))
         # 不允许改变窗口大小
         # root.resizable(False, False)
-
         label_width_set = (int)(screen_width * 0.02)
 
         category = ttk.Frame(root)
@@ -148,12 +146,12 @@ class QTWindow:
         separator = ttk.Separator(partition, bootstyle = "info")
         separator.pack(padx = 20, pady = 10)
 
-        partition_font = font.Font(family = "res/Tonsilla.ttf", size = 15)
-        tk.Label(
-            partition,
-            text = "热点词云图\n",
-            font = partition_font
-        ).pack(side = tk.TOP, pady = (20, 0))
+        # partition_font = font.Font(family = "res/Tonsilla.ttf", size = 15)
+        # tk.Label(
+        #     partition,
+        #     text = "热点词云图\n",
+        #     font = partition_font
+        # ).pack(side = tk.TOP, pady = (20, 0))
 
         def show_image():
             # 读取本地图片并进行缩放
@@ -163,7 +161,7 @@ class QTWindow:
             image = image.resize((img_width, img_height))
             photo = ImageTk.PhotoImage(image)
 
-            label = tk.Label(root, image=photo)
+            label = tk.Label(root, image = photo)
             label.image = photo
             label.pack()
 
