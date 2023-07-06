@@ -1,3 +1,2 @@
-﻿  图形输出题.c
-D:\Code Repository\Default_Repository\C\C_FoundationProject_20230608C1_Ver-1.0.0\图形输出题.c(23,17): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+﻿  测试.c
   C_FoundationProject_20230608C1_Ver-1.0.0.vcxproj -> D:\Code Repository\Default_Repository\C\C_FoundationProject_20230608C1_Ver-1.0.0\x64\Debug\C_FoundationProject_20230608C1_Ver-1.0.0.exe
