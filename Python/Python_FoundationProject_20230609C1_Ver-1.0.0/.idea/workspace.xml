@@ -1,332 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="72e9c39c-421d-48f4-9963-41f849012c3c" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/../../C++/Project-20230430-1.0.0/main.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C++/Project-20230505-1.0.0/main.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Old Code for 2022/99乘法表.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Old Code for 2022/C标准库string_h_learning and application_1.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Old Code for 2022/for和while循环 goto语句.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Old Code for 2022/malloc与calloc申请内存.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Old Code for 2022/realloc函数.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Old Code for 2022/sizeof计算数据类型长度基础代码.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Old Code for 2022/strlen函数及自定义同理函数.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Old Code for 2022/typedef小代码.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Old Code for 2022/位运算符.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Old Code for 2022/函数1.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Old Code for 2022/列阵.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Old Code for 2022/原码 反码 补码.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Old Code for 2022/打字游戏.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Old Code for 2022/打字游戏默.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Old Code for 2022/指针 碎片代码 随视频.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Old Code for 2022/指针1.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Old Code for 2022/指针2.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Old Code for 2022/数字从大排到小.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Old Code for 2022/数组.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Old Code for 2022/格式字符表示基础代码.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Old Code for 2022/水仙花数.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Old Code for 2022/计算天数.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Old Code for 2022/输入分数判级.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Old Code for 2022/输入数字 然后交换.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Old Code for 2022/选择语句if和switch.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Old Code for 2022/逗号 条件运算符 自增.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Project-20230305-1.0.0/01.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Project-20230305-1.1.0/01.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Project-20230305-1.1.0/add.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Project-20230306-1.0.0/01.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Project-20230307-1.0.0/20230307.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Project-20230307-1.0.0/test.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Project-20230308-1.0.0/20230308.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Project-20230308-1.0.0/add.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Project-20230308-1.1.0/01.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Project-20230308-1.1.0/20230308(1).c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Project-20230309-1.0.0/FileName.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Project-20230310-1.0.0/1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Project-20230310-1.0.0/2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Project-20230310-1.0.0/erfenfa.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Project-20230310-1.1.0/main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Project-20230310-1.1.0/subject_function.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Project-20230311-1.0.0/FileName.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Project-20230315-1.0.0/fuction.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Project-20230315-1.0.0/game.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Project-20230315-1.0.0/main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Project-20230315-1.0.0/main.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Project-20230321-1.0.0/20230321.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Project-20230324-1.0.0/1.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Project-20230324-1.0.0/main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Project-20230324-1.0.0/main.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Project-20230324-1.1.0/main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Project-20230326-1.0.0/FunctionDeclaration.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Project-20230326-1.0.0/GameFunction.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Project-20230326-1.0.0/MacroDefinition.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Project-20230326-1.0.0/Main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Project-20230326-1.1.0/main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Project-20230327-1.0.0/Image.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Project-20230327-1.0.0/audio.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Project-20230327-1.0.0/main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Project-20230327-1.1.0/Image.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Project-20230327-1.1.0/audio.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Project-20230327-1.1.0/main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Project-20230327-1.2.0/SDL2.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Project-20230327-1.2.0/bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Project-20230327-1.2.0/main.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Project-20230327-1.2.0/music.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Project-20230417-1.0.0/0417.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Project-20230422-1.0.0/main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Project-20230430-1.0.0/main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Project-20230503-1.0.0/main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Project-20230504-1.0.0/main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Project-TestCode-1.0.0/main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Project-20230502-1.0.0/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Project-20230502-1.0.0/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Project-20230502-1.0.0/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Project-20230502-1.0.0/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Project-20230502-1.0.0/Project-20230502-1.0.0.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Project-20230502-1.0.0/out/production/Project-20230502-1.0.0/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Project-20230502-1.0.0/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230311-1.0.0/PythonApplication_20230311.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230313-1.0.0/PythonApplication_20230313.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230318-1.0.0/1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230323-1.0.0/PythonApplication_20230323.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230430-1.0.0/PythonApplication_20230430_1.0.0.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230504-1.0.0/PythonApplication_20230504_1.0.0.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.0.0/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.0.0/.idea/PythonApplication-20230506-1.0.0.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.0.0/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.0.0/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.0.0/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.0.0/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.0.0/Azure-ttk-theme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.0.0/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.0.0/source/info.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.0.0/source/pages/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.0.0/source/pages/123.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.0.0/source/pages/456.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.0.0/source/pages/index.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.0.0/source/pages/wallpaper.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.1.0/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.1.0/article.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.1.0/coffee-7794531.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.1.0/cs.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.1.0/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.1.0/result.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.1.0/wallpaper.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/app/5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/app/Category.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/app/Club.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/app/Clubs.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/app/CommunicationMain.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/app/DefaultWindow.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/app/FAQs.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/app/ImageSlideshow.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/app/Info.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/app/SaveWebTxt.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/app/UniteText.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/app/WordCloudDisplay.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/gra/1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/gra/2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/gra/newmain.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/gra/page_communication.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/gra/res/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/gra/res/10.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/gra/res/3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/gra/res/3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/gra/res/36453 (1).html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/gra/res/36453 (1).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/gra/res/36453 (2).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/gra/res/36453 (3).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/gra/res/36453 (4).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/gra/res/36453 (5).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/gra/res/36453 (6).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/gra/res/36453 (7).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/gra/res/36453 (8).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/gra/res/53 (1).html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/gra/res/53 (1).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/gra/res/53 (2).html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/gra/res/53 (2).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/gra/res/53 (3).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/gra/res/53 (4).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/gra/res/Course_Code-main/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/gra/res/Course_Code-main/使用if语句完成4个数字排序(AI生成).c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/gra/res/Course_Code-main/使用if语句完成4个数字排序.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/gra/res/adgWR.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/gra/res/agda.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/gra/res/asf.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/gra/res/asfa.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/gra/res/dfgd.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/gra/res/dzgs.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/gra/res/dzsg.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/gra/res/eat.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/gra/res/fgd.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/gra/res/sdhgzs.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/gra/res/啥都干.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/gra/res/是打不过他.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/gra/res/测试.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/gra/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/gra/text.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/gra/word_cloud.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/resource/TextResources/article/2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/resource/TextResources/article/test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/resource/TextResources/wordcloud/wordcloud.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/resource/Tonsilla.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/resource/images/crayons-7869424_1280.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/resource/images/woods-7857082_1280.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-1.2.0/resource/images/word_cloud.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-2.1.0/01.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230506-2.1.0/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0 - 副本/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0 - 副本/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0 - 副本/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0 - 副本/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0 - 副本/comunication.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0 - 副本/html/club.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0 - 副本/html/comunication_index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0 - 副本/html/css/bootstrap-grid.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0 - 副本/html/css/bootstrap-grid.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0 - 副本/html/css/bootstrap-grid.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0 - 副本/html/css/bootstrap-grid.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0 - 副本/html/css/bootstrap-reboot.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0 - 副本/html/css/bootstrap-reboot.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0 - 副本/html/css/bootstrap-reboot.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0 - 副本/html/css/bootstrap-reboot.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0 - 副本/html/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0 - 副本/html/css/bootstrap.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0 - 副本/html/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0 - 副本/html/css/bootstrap.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0 - 副本/html/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0 - 副本/html/faqs.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0 - 副本/html/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0 - 副本/html/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0 - 副本/html/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0 - 副本/html/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0 - 副本/html/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0 - 副本/html/imgs/001.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0 - 副本/html/imgs/A.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0 - 副本/html/imgs/Q.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0 - 副本/html/imgs/chxdfwt.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0 - 副本/html/imgs/jgyq.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0 - 副本/html/imgs/jsjxh.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0 - 副本/html/imgs/jtxh.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0 - 副本/html/imgs/sxjmxh.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0 - 副本/html/imgs/yst.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0 - 副本/html/info.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0 - 副本/html/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0 - 副本/html/js/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0 - 副本/html/js/popper.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0 - 副本/html/js/scripts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0 - 副本/res/Tonsilla.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0 - 副本/res/imgs/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0/comunication.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0/comunication.spec" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0/html/club.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0/html/comunication_index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0/html/css/bootstrap-grid.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0/html/css/bootstrap-grid.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0/html/css/bootstrap-grid.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0/html/css/bootstrap-grid.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0/html/css/bootstrap-reboot.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0/html/css/bootstrap-reboot.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0/html/css/bootstrap-reboot.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0/html/css/bootstrap-reboot.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0/html/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0/html/css/bootstrap.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0/html/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0/html/css/bootstrap.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0/html/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0/html/faqs.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0/html/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0/html/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0/html/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0/html/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0/html/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0/html/imgs/001.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0/html/imgs/A.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0/html/imgs/Q.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0/html/imgs/chxdfwt.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0/html/imgs/jgyq.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0/html/imgs/jsjxh.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0/html/imgs/jtxh.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0/html/imgs/sxjmxh.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0/html/imgs/yst.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0/html/info.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0/html/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0/html/js/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0/html/js/popper.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0/html/js/scripts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-1.0.0/res/Tonsilla.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-2.0.0/.idea/PythonApplication-20230512-2.0.0.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-2.0.0/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-2.0.0/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-2.0.0/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-2.0.0/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-2.0.0/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-2.0.0/1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-2.0.0/1683547463383.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-2.0.0/comunication.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-2.0.0/html/club.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-2.0.0/html/comunication_index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-2.0.0/html/css/bootstrap-grid.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-2.0.0/html/css/bootstrap-grid.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-2.0.0/html/css/bootstrap-grid.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-2.0.0/html/css/bootstrap-grid.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-2.0.0/html/css/bootstrap-reboot.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-2.0.0/html/css/bootstrap-reboot.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-2.0.0/html/css/bootstrap-reboot.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-2.0.0/html/css/bootstrap-reboot.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-2.0.0/html/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-2.0.0/html/css/bootstrap.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-2.0.0/html/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-2.0.0/html/css/bootstrap.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-2.0.0/html/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-2.0.0/html/faqs.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-2.0.0/html/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-2.0.0/html/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-2.0.0/html/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-2.0.0/html/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-2.0.0/html/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-2.0.0/html/imgs/001.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-2.0.0/html/imgs/A.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-2.0.0/html/imgs/Q.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-2.0.0/html/imgs/chxdfwt.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-2.0.0/html/imgs/jgyq.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-2.0.0/html/imgs/jsjxh.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-2.0.0/html/imgs/jtxh.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-2.0.0/html/imgs/sxjmxh.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-2.0.0/html/imgs/yst.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-2.0.0/html/info.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-2.0.0/html/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-2.0.0/html/js/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-2.0.0/html/js/popper.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-2.0.0/html/js/scripts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-2.0.0/image.qrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-2.0.0/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230512-2.0.0/res/Tonsilla.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonApplication-20230513-1.0.0/main.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python学习/001-第一个Python程序.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/C_FoundationProject_20230608C1_Ver-1.0.0.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/C_FoundationProject_20230608C1_Ver-1.0.0.vcxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/C_FoundationProject_20230608C1_Ver-1.0.0.vcxproj.filters" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/C_FoundationProject_20230608C1_Ver-1.0.0.vcxproj.filters" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_Founda.60f35484.tlog/CL.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_Founda.60f35484.tlog/CL.command.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_Founda.60f35484.tlog/CL.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_Founda.60f35484.tlog/CL.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_Founda.60f35484.tlog/CL.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_Founda.60f35484.tlog/CL.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_Founda.60f35484.tlog/C_FoundationProject_20230608C1_Ver-1.0.0.lastbuildstate" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_Founda.60f35484.tlog/C_FoundationProject_20230608C1_Ver-1.0.0.lastbuildstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_Founda.60f35484.tlog/link.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_Founda.60f35484.tlog/link.command.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_Founda.60f35484.tlog/link.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_Founda.60f35484.tlog/link.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_Founda.60f35484.tlog/link.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_Founda.60f35484.tlog/link.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_FoundationProject_20230608C1_Ver-1.0.0.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_FoundationProject_20230608C1_Ver-1.0.0.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_FoundationProject_20230608C1_Ver-1.0.0.exe.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_FoundationProject_20230608C1_Ver-1.0.0.exe.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_FoundationProject_20230608C1_Ver-1.0.0.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_FoundationProject_20230608C1_Ver-1.0.0.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_FoundationProject_20230608C1_Ver-1.0.0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_FoundationProject_20230608C1_Ver-1.0.0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_FoundationProject_20230608C1_Ver-1.0.0.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_FoundationProject_20230608C1_Ver-1.0.0.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_FoundationProject_20230608C1_Ver-1.0.0.vcxproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_FoundationProject_20230608C1_Ver-1.0.0.vcxproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/vc143.idb" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/vc143.idb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/vc143.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/vc143.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python_FoundationProject_20230609C1_Ver-1.0.0.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_FoundationProject_20230609C1_Ver-1.0.0.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectId" id="2QxBiWVdPiYK5KsQH325WisTRAT" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Code Repository/Default_Repository/Python/Python_FoundationProject_20230609C1_Ver-1.0.0&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Code Repository\Default_Repository\Python\Python_FoundationProject_20230609C1_Ver-1.0.0\Python学习" />
+    </key>
+  </component>
   <component name="RunManager">
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="001-第一个Python程序" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Python_FoundationProject_20230609C1_Ver-1.0.0" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -339,7 +89,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="SCRIPT_NAME" value="D:\Code Repository\Default_Repository\Python\Python_FoundationProject_20230609C1_Ver-1.0.0\Python学习\001-第一个Python程序.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -358,6 +108,21 @@
       <option name="presentableId" value="Default" />
       <updated>1686285480621</updated>
       <workItem from="1686285483322" duration="38000" />
+      <workItem from="1687067167304" duration="13000" />
+      <workItem from="1687067186895" duration="1004000" />
+      <workItem from="1687148029482" duration="272000" />
+      <workItem from="1687148369810" duration="505000" />
+      <workItem from="1687149168258" duration="542000" />
+      <workItem from="1687255562115" duration="1085000" />
+      <workItem from="1687256733310" duration="2571000" />
+      <workItem from="1687262460723" duration="3655000" />
+      <workItem from="1687266783504" duration="1751000" />
+      <workItem from="1687272541034" duration="676000" />
+      <workItem from="1687274645444" duration="1818000" />
+      <workItem from="1687582045142" duration="1782000" />
+      <workItem from="1687967252000" duration="1258000" />
+      <workItem from="1687995743267" duration="7000" />
+      <workItem from="1688615016621" duration="3379000" />
     </task>
     <servers />
   </component>
@@ -365,6 +130,16 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Python_FoundationProject_20230609C1_Ver_1_0_0$main.coverage" NAME="main 覆盖结果" MODIFIED="1686285506621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_FoundationProject_20230609C1_Ver_1_0_0$002_.coverage" NAME="002-字面量 覆盖结果" MODIFIED="1688615773314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python学习" />
+    <SUITE FILE_PATH="coverage/Python_FoundationProject_20230609C1_Ver_1_0_0$5.coverage" NAME="5 覆盖结果" MODIFIED="1687267810123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_FoundationProject_20230609C1_Ver_1_0_0$001_Python.coverage" NAME="001-第一个Python程序 覆盖结果" MODIFIED="1688615667531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_FoundationProject_20230609C1_Ver_1_0_0$jkk.coverage" NAME="jkk 覆盖结果" MODIFIED="1687266849927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_FoundationProject_20230609C1_Ver_1_0_0$003_Python_.coverage" NAME="003-Python 注释 覆盖结果" MODIFIED="1688616007968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python学习" />
+    <SUITE FILE_PATH="coverage/Python_FoundationProject_20230609C1_Ver_1_0_0$7.coverage" NAME="7 覆盖结果" MODIFIED="1687276466810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_FoundationProject_20230609C1_Ver_1_0_0$main.coverage" NAME="main 覆盖结果" MODIFIED="1687585352770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_FoundationProject_20230609C1_Ver_1_0_0$6.coverage" NAME="6 覆盖结果" MODIFIED="1687273128193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_FoundationProject_20230609C1_Ver_1_0_0$004_Python_.coverage" NAME="004-Python 变量 覆盖结果" MODIFIED="1688616935644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python学习" />
+    <SUITE FILE_PATH="coverage/Python_FoundationProject_20230609C1_Ver_1_0_0$.coverage" NAME="文件复制程序 覆盖结果" MODIFIED="1687968376151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_FoundationProject_20230609C1_Ver_1_0_0$005_Python_.coverage" NAME="005-Python 数据类型 覆盖结果" MODIFIED="1688618266241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python学习" />
   </component>
 </project>
