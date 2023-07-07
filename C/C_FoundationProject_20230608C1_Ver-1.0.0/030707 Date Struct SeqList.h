@@ -2,6 +2,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
+#include <assert.h>
 
 #define N 1000
 typedef int SLDateType;
@@ -13,13 +14,15 @@ typedef struct SeqList {
 	int capacity; // 数组能存储的空间容量大小
 }SL;
 
+void SeqListPrint(SL* ps);
+
 // 接口函数
 void SeqListInit(SL* ps); // 初始化
+void SeqListDestory(SL* ps); // 初始化
 void SeqListPushBack(SL* ps, SLDateType x); // 尾插
 void SeqListPopBack(SL* ps); // 尾删
 void SeqListPushFront(SL* ps, SLDateType x); // 头插
 void SeqListPopFront(SL* ps);	// 头删
-
 
 /*
 #define _CRT_SECURE_NO_WARNINGS 1
