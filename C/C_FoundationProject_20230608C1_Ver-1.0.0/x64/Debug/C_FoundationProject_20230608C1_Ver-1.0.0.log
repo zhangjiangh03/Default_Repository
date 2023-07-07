@@ -1,4 +1,1 @@
-﻿  C_九九乘法表_20230504C1_Ver-1.1.0.c
-D:\Code Repository\Default_Repository\C\C_FoundationProject_20230608C1_Ver-1.0.0\Code\C_九九乘法表_20230504C1_Ver-1.1.0.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-基础框架.obj : error LNK2005: main 已经在 C_九九乘法表_20230504C1_Ver-1.1.0.obj 中定义
-D:\Code Repository\Default_Repository\C\C_FoundationProject_20230608C1_Ver-1.0.0\x64\Debug\C_FoundationProject_20230608C1_Ver-1.0.0.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
+﻿  C_FoundationProject_20230608C1_Ver-1.0.0.vcxproj -> D:\Code Repository\Default_Repository\C\C_FoundationProject_20230608C1_Ver-1.0.0\x64\Debug\C_FoundationProject_20230608C1_Ver-1.0.0.exe

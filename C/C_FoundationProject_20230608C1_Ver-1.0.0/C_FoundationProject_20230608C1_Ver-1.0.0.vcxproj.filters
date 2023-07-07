@@ -13,9 +13,23 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\Date Struct">
+      <UniqueIdentifier>{f604fd78-13c3-4c2c-89d7-beb124f1ea55}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Date Struct\Fuction">
+      <UniqueIdentifier>{31b0c422-4d96-49ca-8231-3efb6b3641c5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="基础框架.c">
+    <ClInclude Include="Date Struct SeqList.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Date Struct SeqList.c">
+      <Filter>源文件\Date Struct\Fuction</Filter>
+    </ClCompile>
+    <ClCompile Include="Date Struct SeqList Test.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

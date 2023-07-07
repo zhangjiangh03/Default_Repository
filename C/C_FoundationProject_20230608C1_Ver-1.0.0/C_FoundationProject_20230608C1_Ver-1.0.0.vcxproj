@@ -19,7 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="基础框架.c" />
+    <ClCompile Include="Date Struct SeqList Test.c" />
+    <ClCompile Include="Date Struct SeqList.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Date Struct SeqList.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

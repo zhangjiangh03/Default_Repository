@@ -5,29 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72e9c39c-421d-48f4-9963-41f849012c3c" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/C_FoundationProject_20230608C1_Ver-1.0.0.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/C_FoundationProject_20230608C1_Ver-1.0.0.vcxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/C_FoundationProject_20230608C1_Ver-1.0.0.vcxproj.filters" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/C_FoundationProject_20230608C1_Ver-1.0.0.vcxproj.filters" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_Founda.60f35484.tlog/CL.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_Founda.60f35484.tlog/CL.command.1.tlog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_Founda.60f35484.tlog/CL.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_Founda.60f35484.tlog/CL.read.1.tlog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_Founda.60f35484.tlog/CL.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_Founda.60f35484.tlog/CL.write.1.tlog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_Founda.60f35484.tlog/Cl.items.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_Founda.60f35484.tlog/Cl.items.tlog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_Founda.60f35484.tlog/link.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_Founda.60f35484.tlog/link.command.1.tlog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_Founda.60f35484.tlog/link.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_Founda.60f35484.tlog/link.read.1.tlog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_Founda.60f35484.tlog/link.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_Founda.60f35484.tlog/link.write.1.tlog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_FoundationProject_20230608C1_Ver-1.0.0.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_FoundationProject_20230608C1_Ver-1.0.0.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_FoundationProject_20230608C1_Ver-1.0.0.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_FoundationProject_20230608C1_Ver-1.0.0.ilk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_FoundationProject_20230608C1_Ver-1.0.0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_FoundationProject_20230608C1_Ver-1.0.0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_FoundationProject_20230608C1_Ver-1.0.0.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_FoundationProject_20230608C1_Ver-1.0.0.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/vc143.idb" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/vc143.idb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/vc143.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/vc143.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/图形输出题.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/图形输出题.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python学习/001-第一个Python程序.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python 基础/001-第一个Python程序.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python学习/002-字面量.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python 基础/002-字面量.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python学习/003-Python 注释.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python 基础/003-注释.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python学习/004-Python 变量.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python 基础/004-变量.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python学习/005-Python 数据类型.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python 基础/005-数据类型.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +26,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2QxBiWVdPiYK5KsQH325WisTRAT" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -56,21 +37,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Code Repository/Default_Repository/Python/Python_FoundationProject_20230609C1_Ver-1.0.0&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Code Repository/Default_Repository/Python/Python_FoundationProject_20230609C1_Ver-1.0.0",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "proofread",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Code Repository\Default_Repository\Python\Python_FoundationProject_20230609C1_Ver-1.0.0\Python学习" />
@@ -127,6 +108,7 @@
       <workItem from="1688618434712" duration="5911000" />
       <workItem from="1688630212427" duration="1981000" />
       <workItem from="1688649543402" duration="10000" />
+      <workItem from="1688690377293" duration="10237000" />
     </task>
     <servers />
   </component>
@@ -136,12 +118,16 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_FoundationProject_20230609C1_Ver_1_0_0$002_.coverage" NAME="002-字面量 覆盖结果" MODIFIED="1688615773314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python学习" />
     <SUITE FILE_PATH="coverage/Python_FoundationProject_20230609C1_Ver_1_0_0$010_while.coverage" NAME="010-while循环 覆盖结果" MODIFIED="1688631359939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python 基础" />
+    <SUITE FILE_PATH="coverage/Python_FoundationProject_20230609C1_Ver_1_0_0$014_.coverage" NAME="014-列表 覆盖结果" MODIFIED="1688697300328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python 基础" />
+    <SUITE FILE_PATH="coverage/Python_FoundationProject_20230609C1_Ver_1_0_0$013_.coverage" NAME="013-函数的定义 覆盖结果" MODIFIED="1688692379325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python 基础" />
+    <SUITE FILE_PATH="coverage/Python_FoundationProject_20230609C1_Ver_1_0_0$017_.coverage" NAME="017-集合 覆盖结果" MODIFIED="1688705674246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python 基础" />
     <SUITE FILE_PATH="coverage/Python_FoundationProject_20230609C1_Ver_1_0_0$6.coverage" NAME="6 覆盖结果" MODIFIED="1687273128193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_FoundationProject_20230609C1_Ver_1_0_0$004_Python_.coverage" NAME="004-Python 变量 覆盖结果" MODIFIED="1688616935644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python学习" />
+    <SUITE FILE_PATH="coverage/Python_FoundationProject_20230609C1_Ver_1_0_0$018_.coverage" NAME="018-字典 覆盖结果" MODIFIED="1688706349988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python 基础" />
     <SUITE FILE_PATH="coverage/Python_FoundationProject_20230609C1_Ver_1_0_0$008_input.coverage" NAME="008-input函数数据输入 覆盖结果" MODIFIED="1688629218984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python 基础" />
     <SUITE FILE_PATH="coverage/Python_FoundationProject_20230609C1_Ver_1_0_0$5.coverage" NAME="5 覆盖结果" MODIFIED="1687267810123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_FoundationProject_20230609C1_Ver_1_0_0$012_range.coverage" NAME="012-range语句 覆盖结果" MODIFIED="1688631955436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python 基础" />
-    <SUITE FILE_PATH="coverage/Python_FoundationProject_20230609C1_Ver_1_0_0$001_Python.coverage" NAME="001-第一个Python程序 覆盖结果" MODIFIED="1688630292048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_FoundationProject_20230609C1_Ver_1_0_0$001_Python.coverage" NAME="001-第一个Python程序 覆盖结果" MODIFIED="1688690536955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_FoundationProject_20230609C1_Ver_1_0_0$007_.coverage" NAME="007-字符串 覆盖结果" MODIFIED="1688628511303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python 基础" />
     <SUITE FILE_PATH="coverage/Python_FoundationProject_20230609C1_Ver_1_0_0$009_if.coverage" NAME="009-if语句 覆盖结果" MODIFIED="1688630642475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python 基础" />
     <SUITE FILE_PATH="coverage/Python_FoundationProject_20230609C1_Ver_1_0_0$jkk.coverage" NAME="jkk 覆盖结果" MODIFIED="1687266849927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
