@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/win_icon">
+        <file>reduce.svg</file>
+        <file>close.svg</file>
+        <file>square.svg</file>
+    </qresource>
+</RCC>
