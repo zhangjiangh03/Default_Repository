@@ -1,18 +1,23 @@
-#include "030707 Date Struct SeqList.h"
+ï»¿#include "030707 Date Struct SeqList.h"
 
+// æ‰“å°å‡½æ•°
 void SeqListPrint(SL* ps) {
+
+
 	for (int i = 0; i < ps->size; i++) {
 		printf("%d ", ps->a[i]);
 	}
 	printf("\n");
 }
 
+// åˆå§‹åŒ–å‡½æ•°
 void SeqListInit(SL* ps) {
 	ps->a = NULL;
 	ps->size = 0;
 	ps->capacity = 0;
 }
 
+// é‡Šæ”¾å†…å­˜å‡½æ•°
 void SeqListDestory(SL* ps) {
 	free(ps->a);
 	ps->a = NULL;
@@ -20,18 +25,19 @@ void SeqListDestory(SL* ps) {
 	ps->capacity = 0;
 }
 
-void SeqListPushBack(SL* ps, SLDateType x) {
-	// ¼ì²éË³Ğò±íÊÇ·ñÒÑÂú£¬ÈôÒÑÂúÔòÀ©Èİ
+// æ£€æŸ¥ç©ºé—´å‡½æ•°
+void SeqListCheckCapacity(SL* ps) {
+	// æ£€æŸ¥é¡ºåºè¡¨æ˜¯å¦å·²æ»¡ï¼Œè‹¥å·²æ»¡åˆ™æ‰©å®¹
 	if (ps->size == ps->capacity) {
 		/*
-		* ¡¾·ÖÎö¡¿µÚÒ»ÖÖÇé¿öÊÇÃ»ÓĞ¿Õ¼ä£»µÚ¶şÖÖÇé¿öÊÇ¿Õ¼äÒÑÂú
-		* ¸ù¾İË³Ğò±íµÄµ±Ç°ÈİÁ¿¾ö¶¨À©ÈİºóµÄĞÂÈİÁ¿´óĞ¡¡£
-		*¡¾ÈİÁ¿Ñ¡Ôñ¹æÔò¡¿Èç¹ûµ±Ç°ÈİÁ¿Îª0£¬½«ĞÂÈİÁ¿ÉèÎª4£»·ñÔò£¬½«ĞÂÈİÁ¿ÉèÎªµ±Ç°ÈİÁ¿µÄÁ½±¶¡££¨2±¶ÊÇ±È½ÏÊÊºÏµÄ´óĞ¡£©
+		* ã€åˆ†æã€‘ç¬¬ä¸€ç§æƒ…å†µæ˜¯æ²¡æœ‰ç©ºé—´ï¼›ç¬¬äºŒç§æƒ…å†µæ˜¯ç©ºé—´å·²æ»¡
+		* æ ¹æ®é¡ºåºè¡¨çš„å½“å‰å®¹é‡å†³å®šæ‰©å®¹åçš„æ–°å®¹é‡å¤§å°ã€‚
+		*ã€å®¹é‡é€‰æ‹©è§„åˆ™ã€‘å¦‚æœå½“å‰å®¹é‡ä¸º0ï¼Œå°†æ–°å®¹é‡è®¾ä¸º4ï¼›å¦åˆ™ï¼Œå°†æ–°å®¹é‡è®¾ä¸ºå½“å‰å®¹é‡çš„ä¸¤å€ã€‚ï¼ˆ2å€æ˜¯æ¯”è¾ƒé€‚åˆçš„å¤§å°ï¼‰
 		*/
 		int new_capacity = ps->capacity * 2 == 0 ? 4 : ps->capacity * 2;
-		// ps->capacity * 2 == 0 ÎªÕæ£¬·µ»Ø 4 ·ñÔò·µ»Ø ps->capacity * 2;
-		
-		// ¶¯Ì¬À©Èİ
+		// ps->capacity * 2 == 0 ä¸ºçœŸï¼Œè¿”å› 4 å¦åˆ™è¿”å› ps->capacity * 2;
+
+		// åŠ¨æ€æ‰©å®¹
 		SLDateType* temp = (SLDateType*)realloc(ps->a, new_capacity * sizeof(SLDateType));
 		if (temp == NULL) {
 			printf("realloc fail\n");
@@ -41,12 +47,18 @@ void SeqListPushBack(SL* ps, SLDateType x) {
 		ps->a = temp;
 		ps->capacity = new_capacity;
 	}
+}
 
-	// ÔÚË³Ğò±íÄ©Î²²åÈëĞÂÔªËØ£¬²¢¸üĞÂ size
+// å°¾éƒ¨æ’å…¥å‡½æ•°
+void SeqListPushBack(SL* ps, SLDateType x) {
+	SeqListCheckCapacity(ps);
+
+	// åœ¨é¡ºåºè¡¨æœ«å°¾æ’å…¥æ–°å…ƒç´ ï¼Œå¹¶æ›´æ–° size
 	ps->a[ps->size] = x;
 	ps->size++;
 }
 
+// å°¾éƒ¨åˆ é™¤å‡½æ•°
 void SeqListPopBack(SL* ps) {
 	/*
 	if (ps->size > 0) {
@@ -54,14 +66,48 @@ void SeqListPopBack(SL* ps) {
 		ps->size--;
 	}
 	*/
+	// æš´åŠ›æ–¹å¼ æ–­è¨€å¤„ç†
 	assert(ps->size > 0);
 	ps->size--;
 }
 
+// å¤´éƒ¨æ’å…¥å‡½æ•°
 void SeqListPushFront(SL* ps, SLDateType x) {
+	SeqListCheckCapacity(ps);
+
+	// æ•°æ®æŒªç”¨
+	int end = ps->size - 1;
+	while (end >= 0) {
+		ps->a[end + 1] = ps->a[end];
+		end--;
+	}
+	ps->a[0] = x;
+	ps->size++;
+}
+
+// å¤´éƒ¨åˆ é™¤å‡½æ•°
+void SeqListPopFront(SL* ps) {
+	assert(ps->size > 0);
+	
+	int begin = 1;
+	while (begin < ps->size) {
+		ps->a[begin - 1] = ps->a[begin];
+		begin++;
+	}
+	ps->size--;
+}
+
+// æŸ¥æ‰¾å‡½æ•°ï¼Œè¿”å›ä¸‹æ ‡
+int SeqListFind(SL* ps, SLDateType x) {
 
 }
 
-void SeqListPopFront(SL* ps) {
+// // ä»æŒ‡å®šä¸‹æ ‡ä½ç½®æ’å…¥å‡½æ•°
+void SeqListInsert(SL* ps, int pos, SLDateType x) {
+
+}
+
+// // åˆ é™¤æŒ‡å®šä½ç½®çš„æ•°æ®å‡½æ•°
+void SeqListErase(SL* ps, int pos) {
 
 }

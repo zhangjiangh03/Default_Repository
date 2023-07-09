@@ -1,4 +1,4 @@
-#include "030707 Date Struct SeqList.h"
+﻿#include "030707 Date Struct SeqList.h"
 
 void TestSeqList_1() {
 	SL sl;
@@ -19,7 +19,35 @@ void TestSeqList_1() {
 	SeqListDestory(&sl);
 }
 
+void TestSeqList_2() {
+	SL sl;
+	SeqListInit(&sl);
+	SeqListPushBack(&sl, 1);
+	SeqListPushBack(&sl, 2);
+	SeqListPushBack(&sl, 3);
+	SeqListPushBack(&sl, 4);
+	SeqListPushBack(&sl, 5);
+
+	SeqListPrint(&sl);
+
+	SeqListPushFront(&sl, 10);
+	SeqListPushFront(&sl, 20);
+	SeqListPushFront(&sl, 30);
+	SeqListPushFront(&sl, 40);
+	SeqListPushFront(&sl, 50);
+
+	SeqListPrint(&sl);
+
+	SeqListPopFront(&sl);
+	SeqListPopFront(&sl);
+
+	SeqListPrint(&sl);
+
+	SeqListDestory(&sl);
+}
+
 int main() {
-	TestSeqList_1();
+	//TestSeqList_1();
+	TestSeqList_2();
 	return 0;
 }

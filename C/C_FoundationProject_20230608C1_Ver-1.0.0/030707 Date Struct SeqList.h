@@ -1,4 +1,4 @@
-#pragma once
+ï»¿#pragma once
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -7,22 +7,30 @@
 #define N 1000
 typedef int SLDateType;
 
-// ¶¯Ì¬Ë³Ğò±í
+// åŠ¨æ€é¡ºåºè¡¨
 typedef struct SeqList {
 	SLDateType* a;
-	int size; // Êı×éÖĞ´æ´¢ÁË¶àÉÙ¸öÊı¾İ
-	int capacity; // Êı×éÄÜ´æ´¢µÄ¿Õ¼äÈİÁ¿´óĞ¡
+	int size; // æ•°ç»„ä¸­å­˜å‚¨äº†å¤šå°‘ä¸ªæ•°æ®
+	int capacity; // æ•°ç»„èƒ½å­˜å‚¨çš„ç©ºé—´å®¹é‡å¤§å°
 }SL;
 
 void SeqListPrint(SL* ps);
 
-// ½Ó¿Úº¯Êı
-void SeqListInit(SL* ps); // ³õÊ¼»¯
-void SeqListDestory(SL* ps); // ³õÊ¼»¯
-void SeqListPushBack(SL* ps, SLDateType x); // Î²²å
-void SeqListPopBack(SL* ps); // Î²É¾
-void SeqListPushFront(SL* ps, SLDateType x); // Í·²å
-void SeqListPopFront(SL* ps);	// Í·É¾
+// æ¥å£å‡½æ•°
+void SeqListInit(SL* ps); // åˆå§‹åŒ–
+
+void SeqListDestory(SL* ps); // é‡Šæ”¾å†…å­˜
+void SeqListCheckCapacity(SL* ps); // æ£€æŸ¥ç©ºé—´å¤§å°
+
+void SeqListPushBack(SL* ps, SLDateType x); // å°¾æ’
+void SeqListPopBack(SL* ps); // å°¾åˆ 
+
+void SeqListPushFront(SL* ps, SLDateType x); // å¤´æ’
+void SeqListPopFront(SL* ps);	// å¤´åˆ 
+
+int SeqListFind(SL* ps, SLDateType x); // æŸ¥æ‰¾ï¼Œè¿”å›ä¸‹æ ‡
+void SeqListInsert(SL* ps, int pos, SLDateType x); // æŒ‡å®šä¸‹æ ‡ä½ç½®æ’å…¥
+void SeqListErase(SL* ps, int pos); // åˆ é™¤posä½ç½®çš„æ•°æ®
 
 /*
 #define _CRT_SECURE_NO_WARNINGS 1
@@ -30,19 +38,19 @@ void SeqListPopFront(SL* ps);	// Í·É¾
 #define N 1000
 typedef int SLDateType;
 
-// ¾²Ì¬Ë³Ğò±í
+// é™æ€é¡ºåºè¡¨
 typedef struct SeqList {
 	SLDateType a[N];
-	int size;	// Êı×éÖĞ´æ´¢ÁË¶àÉÙ¸öÊı¾İ
+	int size;	// æ•°ç»„ä¸­å­˜å‚¨äº†å¤šå°‘ä¸ªæ•°æ®
 }SL;
 
-// ½Ó¿Úº¯Êı
-void SeqListInit(SL* ps); // ³õÊ¼»¯
+// æ¥å£å‡½æ•°
+void SeqListInit(SL* ps); // åˆå§‹åŒ–
 
-// ¾²Ì¬ÌØµã£ºÂúÁË¾Í²åÈë²»ÁË
-// NĞ¡ÁË²»¹»ÓÃ N´óÁËÀË·Ñ
-void SeqListPushBack(SL* ps, SLDateType x); // Î²²å
-void SeqListPopBack(SL* ps); // Î²É¾
-void SeqListPushFront(SL* ps, SLDateType x); // Í·²å
-void SeqListPopFront(SL* ps);	// Í·É¾
+// é™æ€ç‰¹ç‚¹ï¼šæ»¡äº†å°±æ’å…¥ä¸äº†
+// Nå°äº†ä¸å¤Ÿç”¨ Nå¤§äº†æµªè´¹
+void SeqListPushBack(SL* ps, SLDateType x); // å°¾æ’
+void SeqListPopBack(SL* ps); // å°¾åˆ 
+void SeqListPushFront(SL* ps, SLDateType x); // å¤´æ’
+void SeqListPopFront(SL* ps);	// å¤´åˆ 
 */

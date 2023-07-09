@@ -13,3 +13,6 @@ Update Log:
 
 """字符串比较大小"""
 print({"abc" > "abb"})
+
+print(5 >> 2)
+

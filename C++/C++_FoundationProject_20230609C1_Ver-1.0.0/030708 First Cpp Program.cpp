@@ -25,13 +25,13 @@ int main() {
 	cout << the_data << endl;
 	*/
 
-	int num_a, num_b;
-	cin >> num_a >> num_b;
-	if (num_a > num_b) {
-		cout << "最大值为：" << num_a;
+	int num_s_input, num_f_input;
+	cin >> num_s_input >> num_f_input;
+	if (num_s_input > num_f_input) {
+		cout << "最大值为：" << num_s_input;
 	}
 	else {
-		cout << "最大值为：" << num_b;
+		cout << "最大值为：" << num_f_input;
 	}
 	return 0;
 }
