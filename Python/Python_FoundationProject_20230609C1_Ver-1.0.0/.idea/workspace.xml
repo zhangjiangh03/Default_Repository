@@ -5,23 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72e9c39c-421d-48f4-9963-41f849012c3c" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/../../C++/C++_FoundationProject_20230609C1_Ver-1.0.0/C++_FoundationProject_20230609C1_Ver-1.0.0.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/C++_FoundationProject_20230609C1_Ver-1.0.0/C++_FoundationProject_20230609C1_Ver-1.0.0.vcxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C++/C++_FoundationProject_20230609C1_Ver-1.0.0/C++_FoundationProject_20230609C1_Ver-1.0.0.vcxproj.filters" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/C++_FoundationProject_20230609C1_Ver-1.0.0/C++_FoundationProject_20230609C1_Ver-1.0.0.vcxproj.filters" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C++/C++_FoundationProject_20230609C1_Ver-1.0.0/Hello.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/030707 Date Struct SeqList Test.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/030707 Date Struct SeqList Test.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/030707 Date Struct SeqList.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/030707 Date Struct SeqList.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/030707 Date Struct SeqList.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/030707 Date Struct SeqList.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/030707 Date Struct SeqList Test.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/030707 Date Struct SeqList Test.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/030707 Date Struct SeqList.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/030707 Date Struct SeqList.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_Founda.60f35484.tlog/link.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_Founda.60f35484.tlog/link.read.1.tlog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_Founda.60f35484.tlog/link.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_Founda.60f35484.tlog/link.write.1.tlog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_FoundationProject_20230608C1_Ver-1.0.0.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_FoundationProject_20230608C1_Ver-1.0.0.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_FoundationProject_20230608C1_Ver-1.0.0.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_FoundationProject_20230608C1_Ver-1.0.0.ilk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_FoundationProject_20230608C1_Ver-1.0.0.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/C_FoundationProject_20230608C1_Ver-1.0.0.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/vc143.idb" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/vc143.idb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/vc143.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/C_FoundationProject_20230608C1_Ver-1.0.0/x64/Debug/vc143.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python 基础/016-字符串操作.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python 基础/016-字符串操作.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python 基础/025-pyechat.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python 基础/025-json.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,22 +45,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "deletionFromPopupRequiresConfirmation": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/Code Repository/Default_Repository/Python/Python_FoundationProject_20230609C1_Ver-1.0.0",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "proofread",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Code Repository/Default_Repository/Python/Python_FoundationProject_20230609C1_Ver-1.0.0&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;proofread&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Code Repository\Default_Repository\Python\Python_FoundationProject_20230609C1_Ver-1.0.0\Python学习" />
@@ -112,6 +97,7 @@
       <workItem from="1688770571189" duration="9167000" />
       <workItem from="1688793857672" duration="6056000" />
       <workItem from="1688903587534" duration="4149000" />
+      <workItem from="1688943019268" duration="3578000" />
     </task>
     <servers />
   </component>
@@ -124,6 +110,7 @@
     <SUITE FILE_PATH="coverage/Python_FoundationProject_20230609C1_Ver_1_0_0$016_.coverage" NAME="016-字符串操作 覆盖结果" MODIFIED="1688798184880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python 基础" />
     <SUITE FILE_PATH="coverage/Python_FoundationProject_20230609C1_Ver_1_0_0$018_.coverage" NAME="018-字典 覆盖结果" MODIFIED="1688771965997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python 基础" />
     <SUITE FILE_PATH="coverage/Python_FoundationProject_20230609C1_Ver_1_0_0$008_input.coverage" NAME="008-input函数数据输入 覆盖结果" MODIFIED="1688629218984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python 基础" />
+    <SUITE FILE_PATH="coverage/Python_FoundationProject_20230609C1_Ver_1_0_0$025_json.coverage" NAME="025-json 覆盖结果" MODIFIED="1688943744931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python 基础" />
     <SUITE FILE_PATH="coverage/Python_FoundationProject_20230609C1_Ver_1_0_0$012_range.coverage" NAME="012-range语句 覆盖结果" MODIFIED="1688631955436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python 基础" />
     <SUITE FILE_PATH="coverage/Python_FoundationProject_20230609C1_Ver_1_0_0$001_Python.coverage" NAME="001-第一个Python程序 覆盖结果" MODIFIED="1688903837463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_FoundationProject_20230609C1_Ver_1_0_0$007_.coverage" NAME="007-字符串 覆盖结果" MODIFIED="1688628511303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python 基础" />
@@ -139,12 +126,14 @@
     <SUITE FILE_PATH="coverage/Python_FoundationProject_20230609C1_Ver_1_0_0$017_.coverage" NAME="017-集合 覆盖结果" MODIFIED="1688705674246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python 基础" />
     <SUITE FILE_PATH="coverage/Python_FoundationProject_20230609C1_Ver_1_0_0$6.coverage" NAME="6 覆盖结果" MODIFIED="1687273128193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_FoundationProject_20230609C1_Ver_1_0_0$004_Python_.coverage" NAME="004-Python 变量 覆盖结果" MODIFIED="1688616935644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python学习" />
+    <SUITE FILE_PATH="coverage/Python_FoundationProject_20230609C1_Ver_1_0_0$026_pyecharts.coverage" NAME="026-pyecharts 覆盖结果" MODIFIED="1688945381832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python 基础" />
     <SUITE FILE_PATH="coverage/Python_FoundationProject_20230609C1_Ver_1_0_0$5.coverage" NAME="5 覆盖结果" MODIFIED="1687267810123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_FoundationProject_20230609C1_Ver_1_0_0$024_.coverage" NAME="024-包 覆盖结果" MODIFIED="1688907406609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python 基础" />
     <SUITE FILE_PATH="coverage/Python_FoundationProject_20230609C1_Ver_1_0_0$009_if.coverage" NAME="009-if语句 覆盖结果" MODIFIED="1688630642475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python 基础" />
-    <SUITE FILE_PATH="coverage/Python_FoundationProject_20230609C1_Ver_1_0_0$019_.coverage" NAME="019-序列切片 覆盖结果" MODIFIED="1688771251060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python 基础" />
+    <SUITE FILE_PATH="coverage/Python_FoundationProject_20230609C1_Ver_1_0_0$019_.coverage" NAME="019-序列切片 覆盖结果" MODIFIED="1688945751727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python 基础" />
     <SUITE FILE_PATH="coverage/Python_FoundationProject_20230609C1_Ver_1_0_0$003_Python_.coverage" NAME="003-Python 注释 覆盖结果" MODIFIED="1688616007968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python学习" />
     <SUITE FILE_PATH="coverage/Python_FoundationProject_20230609C1_Ver_1_0_0$main.coverage" NAME="main 覆盖结果" MODIFIED="1687585352770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_FoundationProject_20230609C1_Ver_1_0_0$027_.coverage" NAME="027-对象 覆盖结果" MODIFIED="1688946440861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python 基础" />
     <SUITE FILE_PATH="coverage/Python_FoundationProject_20230609C1_Ver_1_0_0$007_Python_.coverage" NAME="007-Python 字符串 覆盖结果" MODIFIED="1688626661926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python学习" />
     <SUITE FILE_PATH="coverage/Python_FoundationProject_20230609C1_Ver_1_0_0$.coverage" NAME="华氏温度转换为摄氏温度 覆盖结果" MODIFIED="1688799910148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python 博客笔记/示例代码" />
     <SUITE FILE_PATH="coverage/Python_FoundationProject_20230609C1_Ver_1_0_0$022_.coverage" NAME="022-异常 覆盖结果" MODIFIED="1688904677151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python 基础" />
