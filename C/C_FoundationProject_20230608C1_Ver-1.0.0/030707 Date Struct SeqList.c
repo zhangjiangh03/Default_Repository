@@ -2,8 +2,6 @@
 
 // 打印函数
 void SeqListPrint(SL* ps) {
-
-
 	for (int i = 0; i < ps->size; i++) {
 		printf("%d ", ps->a[i]);
 	}
@@ -99,15 +97,47 @@ void SeqListPopFront(SL* ps) {
 
 // 查找函数，返回下标
 int SeqListFind(SL* ps, SLDateType x) {
+	for (int i = 0; i < ps->size; i++) {
+		if (ps->a[i] == x) {
+			return i;
+		}
+	}
 
+	return -1;
 }
 
 // // 从指定下标位置插入函数
 void SeqListInsert(SL* ps, int pos, SLDateType x) {
+	/*
+	if (pos > ps->size || pos < 0) {
+		printf("pos invalid\n");
+		return;
+	}
+	*/
 
+	 // 暴力方法
+	assert(pos >= 0 && pos <= ps->size);
+
+	SeqListCheckCapacity(ps);
+	// 挪动数据
+	int end = ps->size - 1;
+	while (end >= pos) {
+		ps->a[end + 1] = ps->a[end];
+		--end;
+	}
+
+	ps->a[pos] = x;
+	ps->size++;
 }
 
-// // 删除指定位置的数据函数
+// 删除指定位置的数据函数
 void SeqListErase(SL* ps, int pos) {
+	assert(pos >= 0 && pos < ps->size);
+	int begin = pos + 1;
+	while (begin < ps->size) {
+		ps->a[begin - 1] = ps->a[begin];
+		++begin;
+	}
 
+	ps->size--;
 }

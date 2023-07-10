@@ -46,8 +46,47 @@ void TestSeqList_2() {
 	SeqListDestory(&sl);
 }
 
+void TestSeqList_3() {
+	SL sl;
+	SeqListInit(&sl);
+	SeqListPushBack(&sl, 1);
+	SeqListPushBack(&sl, 2);
+	SeqListPushBack(&sl, 3);
+	SeqListPushBack(&sl, 4);
+	SeqListPushBack(&sl, 5);
+
+	SeqListInsert(&sl, 2, 30);
+
+	int pos = SeqListFind(&sl, 4);
+	if (pos != -1) {
+		SeqListInsert(&sl, 4, 40);
+	}
+
+	SeqListPrint(&sl);
+
+	SeqListDestory(&sl);
+}
+
+void TestSeqList_4() {
+	SL sl;
+	SeqListInit(&sl);
+	SeqListPushBack(&sl, 1);
+	SeqListPushBack(&sl, 2);
+	SeqListPushBack(&sl, 3);
+	SeqListPushBack(&sl, 4);
+	SeqListPushBack(&sl, 5);
+
+	SeqListErase(&sl, 1);
+
+	SeqListPrint(&sl);
+
+	SeqListDestory(&sl);
+}
+
 int main() {
 	//TestSeqList_1();
-	TestSeqList_2();
+	//TestSeqList_2();
+	//TestSeqList_3();
+	TestSeqList_4();
 	return 0;
 }
