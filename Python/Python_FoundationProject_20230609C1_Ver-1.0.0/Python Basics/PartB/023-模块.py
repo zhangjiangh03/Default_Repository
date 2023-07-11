@@ -37,13 +37,13 @@ Update Log:
 # print(456)
 
 """自定义模块"""
-# import 附件.test_module as te
+# import files.test_module as te
 #
 # print(te.add(5, 6))
 
 """__main__"""
 #
-# import 附件.test_module as te
+# import files.test_module as te
 #
 # if __name__ == '__main__':
 #     print(te.add(5, 6))

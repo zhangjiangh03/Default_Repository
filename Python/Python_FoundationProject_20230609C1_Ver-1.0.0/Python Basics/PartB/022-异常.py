@@ -9,10 +9,10 @@ Update Log:
 
 """常用异常"""
 try:
-    open("附件/acb.txt", "r", encoding="UTF-8")
+    open("files/acb.txt", "r", encoding="UTF-8")
 except:
     print("error ")
-    open("附件/acb.txt", "w", encoding="UTF-8")
+    open("files/acb.txt", "w", encoding="UTF-8")
 
 """捕获指定异常"""
 try:

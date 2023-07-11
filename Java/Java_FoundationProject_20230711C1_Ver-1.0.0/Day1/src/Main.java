@@ -1,10 +1,21 @@
+/**
+ * Version: 1.0
+ * Author: 张江寒Zhang
+ * Creation Date: 2023-07-11
+ * Update Date: 2023-07-11
+ * Description: 第一个程序
+ * Update Log:
+ *   - Update the code
+ **/
+
+// 导入Scanner包
 import java.util.Scanner;
 
-public class Main {
+public  class Main {
     /*
     * public：这是一个访问修饰符，表示该类是公开的，可以从其他类或包中进行访问。
     * class：这是关键字，用于声明一个类。
-    * Main：这是类的名称，遵循Java命名规范，类名通常以大写字母开头。
+    * Day1：这是类的名称，遵循Java命名规范，类名通常以大写字母开头。
     *
     *  class 关键字用于定义类，类是 java 的基本单元
     */
@@ -30,9 +41,10 @@ public class Main {
         // 创建对象
         Scanner sc = new Scanner(System.in);
         // 接受数据
-        int i = sc.nextInt();
+        int number_1 = sc.nextInt();
+        int number_2 = sc.nextInt();
         // 输出数据
-        System.out.println(i);
+        System.out.println(number_1 + number_2);
 
     }
 }
