@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="72e9c39c-421d-48f4-9963-41f849012c3c" name="更改" comment="上传" />
+=======
+    <list default="true" id="72e9c39c-421d-48f4-9963-41f849012c3c" name="更改" comment="上传">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python 基础/032-变量注解.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python 基础/032-变量注解.py" afterDir="false" />
+    </list>
+>>>>>>> e152aa797cb2d1c9c12339175e9661f8385cd5a2
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,7 +103,11 @@
       <workItem from="1688903587534" duration="4149000" />
       <workItem from="1688943019268" duration="3700000" />
       <workItem from="1688990739432" duration="8000" />
+<<<<<<< HEAD
       <workItem from="1689034468036" duration="6586000" />
+=======
+      <workItem from="1689034468036" duration="6554000" />
+>>>>>>> e152aa797cb2d1c9c12339175e9661f8385cd5a2
     </task>
     <task id="LOCAL-00001" summary="上传">
       <option name="closed" value="true" />
@@ -106,6 +117,7 @@
       <option name="project" value="LOCAL" />
       <updated>1689037198440</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00002" summary="上传">
       <option name="closed" value="true" />
       <created>1689046531561</created>
@@ -115,6 +127,9 @@
       <updated>1689046531561</updated>
     </task>
     <option name="localTasksCounter" value="3" />
+=======
+    <option name="localTasksCounter" value="2" />
+>>>>>>> e152aa797cb2d1c9c12339175e9661f8385cd5a2
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
