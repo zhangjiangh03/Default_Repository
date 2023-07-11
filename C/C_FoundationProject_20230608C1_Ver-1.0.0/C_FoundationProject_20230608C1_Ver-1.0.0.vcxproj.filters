@@ -15,16 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="030707 Date Struct SeqList.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
+    <ClCompile Include="230711 Date Struct SingleLinkList.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="230711 Date Struct SingleLinkList Test.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="030707 Date Struct SeqList.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="030707 Date Struct SeqList Test.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
+    <ClInclude Include="230711 Date Struct SingleLinkList.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

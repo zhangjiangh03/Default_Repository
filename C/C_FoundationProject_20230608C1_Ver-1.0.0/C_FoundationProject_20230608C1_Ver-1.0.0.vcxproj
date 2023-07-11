@@ -19,11 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="030707 Date Struct SeqList Test.c" />
-    <ClCompile Include="030707 Date Struct SeqList.c" />
+    <ClCompile Include="230711 Date Struct SingleLinkList Test.c" />
+    <ClCompile Include="230711 Date Struct SingleLinkList.c" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="030707 Date Struct SeqList.h" />
+    <ClInclude Include="230711 Date Struct SingleLinkList.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
